@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+sphinx = "*"
+sphinx-rtd-theme = "*"
+
+[packages]
+pycountry-convert = "==0.7.2"
+jellyfish = "==0.6.1"
+alphabet-detector = "==0.0.7"
+pandas = "==0.23.0"
+scipy = "*"
+text-unidecode = "==1.2"
+scikit-learn = "*"
+xgboost = "*"
+tqdm = "*"
+numpy = "*"
+click = "*"
+nltk = "*"
+pycountry = "*"
+langdetect = "*"
+
+[requires]
+python_version = "3.8"
