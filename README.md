@@ -1,4 +1,4 @@
-# EnsembleToponymInterlinking
+# LGM-EnsembleToponymInterlinking
 
 This repository evaluates a series of approaches on top of the Toponym Interlinking task. It uses minimally adapted code from the [LinkGeoML/LGM-Interlinking](https://github.com/LinkGeoML/LGM-Interlinking) and [LuisPB7/StringMatching](https://github.com/LuisPB7/StringMatching) repositories. It consists of two sections:
 
